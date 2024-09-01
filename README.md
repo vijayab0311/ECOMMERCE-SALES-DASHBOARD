@@ -3,7 +3,7 @@ Ecommerce  Sales Dashboard  focus on leveraging seasonal trends, optimizing high
 
 ![Dashboard Output](https://github.com/user-attachments/assets/4a0d3c79-ccc3-439f-bc54-7f9296831a93)
 
-#Key features of this dashboard include: 
+# Key features of this dashboard include: 
 
 📈 Interactive charts and graphs presenting trends and patterns
 
