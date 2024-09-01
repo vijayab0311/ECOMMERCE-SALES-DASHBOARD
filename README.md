@@ -1,4 +1,4 @@
-# ECOMMERCE-SALES-DASHBOARD
+# E-Commerce-Sales (Power BI Dashboard)
 Ecommerce  Sales Dashboard  focus on leveraging seasonal trends, optimizing high-performing product categories and payment methods, targeting key geographic regions, and enhancing customer retention through personalized marketing and loyalty programs.
 
 ![Dashboard Output](https://github.com/user-attachments/assets/4a0d3c79-ccc3-439f-bc54-7f9296831a93)
